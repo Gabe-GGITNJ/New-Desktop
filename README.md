@@ -10,7 +10,7 @@ With the announcement that Windows 10 was approaching End of Life, I decided tha
 So last year I started the process.  I'm happy to say it's been a year and the MasterChief is still running smooth!
 
 ## Requirements/Features
-* must be able to support Windows 11 Pro
+* Must be able to support Windows 11 Pro
 * Motherboard must support TPM (Trusted Platform Module)
 * Ability to run a stable standalone MacOS in the future
 * Watercooling (optional) but nice to have in the near future
